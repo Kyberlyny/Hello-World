@@ -1,2 +1,2 @@
 # Hello-World
-Arquivo criado para praticar o Fluxo do GitHub.
+Pasta criada para praticar o Fluxo do GitHub.
